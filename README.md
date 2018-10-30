@@ -8,4 +8,5 @@ Every OS X/ macOS white paper
 | [October 2013](https://github.com/0xmachos/mac-white-papers/blob/master/OSX_Mavericks_Core_Technology_Overview.pdf) | Mavericks `10.9` |
 | [September 2015](https://github.com/0xmachos/mac-white-papers/blob/master/osx_elcapitan_core_technologies_overview.pdf)  | El Capitan `10.11`|
 | [March 2018](https://github.com/0xmachos/mac-white-papers/blob/master/macOS_Security_Overview.pdf) | High Sierra `10.13` |
+| [October 2018](https://github.com/0xmachos/mac-white-papers/blob/master/Apple_T2_Security_Chip_Overview.pdf) | T2 Chip |
 
