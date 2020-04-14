@@ -1,4 +1,7 @@
 # mac-white-papers
+
+(Newer [Apple Platform Security Guides](https://github.com/0xmachos/Apple-Platform-Security-Guides))
+
 Every OS X/ macOS white paper
 
 | Date            |  Version |
